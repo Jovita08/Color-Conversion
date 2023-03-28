@@ -55,6 +55,8 @@ Anaconda - Python 3.7
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/94174503/228173581-1d71ab38-b7ed-44b3-bddd-55360bdb626e.png">
+
 <br>
 
 ### ii) HSV to RGB and BGR
